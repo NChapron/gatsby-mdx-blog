@@ -24,16 +24,16 @@ export const Footer = () => {
     return <FooterWrapper>
         <FooterSocialWrapper>
             <FooterSocialIcons>
-                <a href="#" target="_blank" rel="noopener noreferrer">
+                <a href="https://nicolas-chapron.com/" target="_blank" rel="noopener noreferrer">
                     <img src={data.facebook.publicURL} alt="Facebook logo" />
                 </a>
-                <a href="#" target="_blank" rel="noopener noreferrer">
+                <a href="https://nicolas-chapron.com/" target="_blank" rel="noopener noreferrer">
                     <img src={data.linkedIn.publicURL} alt="LinkedIn logo" />
                 </a>
-                <a href="#" target="_blank" rel="noopener noreferrer">
+                <a href="https://nicolas-chapron.com/" target="_blank" rel="noopener noreferrer">
                     <img src={data.instagram.publicURL} alt="Instagram logo" />
                 </a>
-                <a href="#" target="_blank" rel="noopener noreferrer">
+                <a href="https://nicolas-chapron.com/" target="_blank" rel="noopener noreferrer">
                     <img src={data.twitter.publicURL} alt="Twitter logo" />
                 </a>
             </FooterSocialIcons>
